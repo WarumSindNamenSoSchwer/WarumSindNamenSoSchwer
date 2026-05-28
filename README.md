@@ -15,8 +15,8 @@ Builds embedded systems, ML toys, and whatever else looks interesting that week.
 ### Recent + ongoing
 - Firmware: wrist-worn fall detection on Bosch BHI260AP (BHY2 host driver, custom Virtual Sensor, BLE event push)
 - Side: gesture classifier on Arduino Nicla Sense Me (same chip family, public code coming)
-- Web: [SbSQLTT](https://github.com/WarumSindNamenSoSchwer/SbSQLTT) — open-source SQL trainer, Postgres in the browser (PGlite) + SvelteKit, teacher dashboard; pre-MVP, building in public
-- ML: built a [DCGAN from scratch](https://github.com/WarumSindNamenSoSchwer/deepfake-gan-5pk) to understand how deepfakes work — and why a hobby model can't fake anyone convincingly; Abitur capstone (Informatik + Politik), code + writeup public
+- Web: [SbSQLTT](https://github.com/WarumSindNamenSoSchwer/SbSQLTT): open-source SQL trainer, Postgres in the browser (PGlite) + SvelteKit, teacher dashboard; pre-MVP, building in public
+- ML: built a [DCGAN from scratch](https://github.com/WarumSindNamenSoSchwer/deepfake-gan-5pk) to understand how deepfakes work, and why a hobby model can't fake anyone convincingly; Abitur capstone (Informatik + Politik), code + writeup public
 - Tools: macOS Swift app to bulk-mail PDF receipts to Lexware; HTML-only "dynamic" QR redirect via GitHub Pages
 - Off-GitHub: photography + IT consulting via [jmestudio](https://jmestudio.de) (own GbR)
 
