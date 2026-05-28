@@ -22,8 +22,18 @@ Builds embedded systems, ML toys, and whatever else looks interesting that week.
 ### Reach me
 - Email: murat.meric@jmestudio.de
 
+### Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WarumSindNamenSoSchwer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarumSindNamenSoSchwer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=WarumSindNamenSoSchwer&theme=tokyonight&hide_border=true" />
+</p>
+
 <!--
 WarumSindNamenSoSchwer/WarumSindNamenSoSchwer is a ✨ special ✨ repository:
 its README appears on my GitHub profile.
 -->
-
